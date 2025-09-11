@@ -1,16 +1,17 @@
-## Hi there 👋
+[![Animated hello](hello-animated.svg)](https://github.com/nikolalsvk/custom-readme-styles/blame/main/hello-animated.svg)
+<img 
+    align="left"
+    alt="GitHub Stats" 
+    title="Stats"
+    height="185"
+    style="padding-right: 8px;" 
+src="https://github-readme-stats.vercel.app/api?username=NunesGustavo0&show_icons=true&rank_icon=github&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact" 
+/>
 
-<!--
-**NunesGustavo0/NunesGustavo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img 
+    alt="GitHub Stats" 
+    title="Tecnologias"
+    height="195"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NunesGustavo0&theme=tokyonight&custom_title=Tecnologias&layout=compact&exclude_langs=html" 
+/>
