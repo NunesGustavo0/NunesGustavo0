@@ -1,8 +1,13 @@
 <div style="width: 100%;">
   <a href="https://github.com/nikolalsvk/custom-readme-styles/blame/main/hello-animated-color-scheme.svg">
-    <img src="hello-animated-color-scheme.svg" style="width: 100%;" alt="Click to see the source">
+    <img src="hello-animated.svg" style="width: 100%;" alt="Click to see the source">
   </a>
 </div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Front-End+Software+Engineer;Accessibility+Advocate;Open+Source+Contributor;Community+Builder" alt="Typing SVG" />
+</p>
+
 <img 
     align="left"
     alt="GitHub Stats" 
