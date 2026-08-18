@@ -28,10 +28,12 @@
 - [⛑ Salvar Mais](https://github.com/Organizacao-SalvaMais/MVP) - Hub de informações sobre primeiros socorros, centralizando quizzes, tutoriais, e notícias sobre primeiros socorros - Next.js, Supabase
 
 ## 📩 Contato 
+
 <a href="mailto:gustavo.nunes0379@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="www.linkedin.com/in/gustavo-nunes-de-oliveira-4a5578291" target="_blank">
+
+<a href="https://www.linkedin.com/in/gustavo-nunes-de-oliveira-4a5578291" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
