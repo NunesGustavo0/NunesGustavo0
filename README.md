@@ -6,7 +6,7 @@
    <h1>Olá 👋, me chamo Gustavo Nunes de Oliveira </h1>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Software+Engineer;FullStack+Developer;Automation+Engineer)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Software+Engineer;Hyperautomation+&+RPA;Machine+Learning;Research+&+Development)](https://git.io/typing-svg) 
 
 ## 🚀 Sobre mim
 - Desenvolvedor de Software e estudante de Análise e Desenvolvimento de Sistemas no IFAM, com foco em automação de processos, engenharia de software e Inteligência Artificial aplicada.
@@ -25,7 +25,7 @@
 - [🏭 Conferência lotes automatizada](https://github.com/NunesGustavo0/Hyperautomation) - Sistema de simulação de conferencia de lotes industriais provenientes do setor de qualidade - Playwright, Pytest, Docker, Github Actions, GitFlow
 - [🎮 GameScrap](https://github.com/NunesGustavo0/botcity_jogos) - Sistema de monitoramento em tempo real de preços de jogos em plataformas digitais, integrando Automação web com machine learing - Botcity orquestrador, FastAPI, DVC, MLFlow, Scikit-Learn, Evidently AI
 - 🎓 Arumã - Sistema de gerenciamento acadêmico desenvolvido para o Programa Arumã — Aperfeiçoamento em Educação Especial do IFAM Campus Manaus Centro - FastAPI, React com Vite, PostgreSQL, Pytest, Github Actions, GitFlow
-- [⛑ Salvar Mais](https://github.com/Organizacao-SalvaMais/MVP) - Hub de informações sobre primeiros socorros, centralizando quizzes, tutoriais, e notícias sobre primeiros socorros - TypeScript, FastAPI, SQLite, Ferramentas Google
+- [⛑ Salvar Mais](https://github.com/Organizacao-SalvaMais/MVP) - Hub de informações sobre primeiros socorros, centralizando quizzes, tutoriais, e notícias sobre primeiros socorros - Next.js, Supabase
 
 ## 📩 Contato 
 <a href="mailto:gustavo.nunes0379@gmail.com" target="_blank">
